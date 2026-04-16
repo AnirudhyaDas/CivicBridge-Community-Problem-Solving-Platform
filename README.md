@@ -71,3 +71,40 @@ CivicBridge provides:
 </div>
 
 ---
+
+## ✨ Key Features
+
+### 👥 For Citizens
+- 🔍 **Browse & Search** problems by category, location, severity
+- 📝 **Report Problems** with photos, descriptions, and location
+- 💡 **Propose Solutions** with detailed implementation plans
+- 🗳️ **Vote & Comment** on problems and solutions
+- 🏆 **Earn Credibility** through quality contributions
+- 📊 **Track Impact** of your contributions
+
+### 👨‍💼 For Experts
+- 🎯 **Submit Expert Solutions** with technical details
+- 📈 **Get Recognition** through solution adoption
+- 🤝 **Collaborate** with other experts
+- 📚 **Build Portfolio** of solved community issues
+
+### 👑 For Admins
+- 📊 **Analytics Dashboard** with real-time metrics
+- ✅ **Moderate Content** (problems, solutions, comments)
+- 🎯 **Adopt Solutions** and mark problems resolved
+- 📁 **Export Data** for reporting
+- 👥 **User Management** and role assignment
+
+### 🏛️ For Government/Authorities
+- 📋 **Official Verification** of problems
+- 💰 **Budget Tracking** for solutions
+- 📈 **Performance Metrics** for departments
+- 🔗 **API Integration** with existing systems
+
+### 🤖 AI-Powered Features
+- 🧮 **Smart Solution Scoring** (Impact 40%, Feasibility 30%, Cost 20%, Credibility 10%)
+- 🔄 **Duplicate Detection** for similar problems
+- 🏷️ **Auto-categorization** of reported issues
+- 📊 **Predictive Analytics** for problem trends
+
+---
